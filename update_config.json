@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.1.0",
+  "latest_version": "1.0.1",
   "download_url": "https://example.com/sbi_tv_v1.0.0.apk",
   "update_message": "Bug fixes and performance improvements",
   "force_update": true,
-  "maintenance_mode": true,
+  "maintenance_mode": false,
   "maintenance_message": "We are performing scheduled maintenance. The app will be back shortly."
 }
