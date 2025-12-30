@@ -2,8 +2,8 @@
   "latest_version": "1.0.1",
   "download_url": "https://example.com/sbi_tv_v1.0.1.apk",
   "update_message": "Experience the new improved SBI TV with better performance! 🚀",
-  "force_update": true,
-  "maintenance_mode": false,
+  "force_update": false,
+  "maintenance_mode": true,
   "maintenance_message": "We are performing scheduled maintenance to improve your experience. The app will be back shortly.",
   "expected_back_time": "2025-12-31T18:00:00Z",
   "whats_new": [
