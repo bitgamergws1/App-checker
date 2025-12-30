@@ -1,16 +1,33 @@
 {
-  "latest_version": "1.0.0",
-  "download_url": "https://example.com/sbi_tv_v1.0.1.apk",
-  "update_message": "Experience the new improved SBI TV with better performance! 🚀",
-  "force_update": false,
   "maintenance_mode": false,
   "maintenance_message": "We are performing scheduled maintenance to improve your experience. The app will be back shortly.",
   "expected_back_time": "2025-12-31T18:00:00Z",
-  "whats_new": [
-    "🎨 Brand new modern UI design",
-    "⚡ 50% faster channel loading",
-    "🔍 Improved search with smart suggestions",
-    "🐛 Fixed playback issues on some devices",
-    "📱 Better support for tablets and large screens"
-  ]
+  
+  "android": {
+    "latest_version": "1.0.0",
+    "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/v1.0.0/sbi_tv.apk",
+    "update_message": "Experience the new improved SBI TV with better performance! 🚀",
+    "force_update": false,
+    "whats_new": [
+      "🎨 Brand new modern UI design",
+      "⚡ 50% faster channel loading",
+      "🔍 Improved search with smart suggestions",
+      "🐛 Fixed playback issues on some devices",
+      "📱 Better support for tablets and large screens"
+    ]
+  },
+  
+  "windows": {
+    "latest_version": "1.0.0",
+    "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/v1.0.0/sbi_tv_setup.exe",
+    "update_message": "Professional Windows update available with enhanced features! 💻",
+    "force_update": false,
+    "whats_new": [
+      "💻 Native Windows desktop experience",
+      "⚡ Optimized performance for desktop",
+      "🎯 Auto-update functionality",
+      "🖥️ Multi-window support",
+      "🔧 Better system integration"
+    ]
+  }
 }
