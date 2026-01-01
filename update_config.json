@@ -1,22 +1,23 @@
 {
-  "latest_version": "1.2.0",
-  "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Downloads/SBI.TV.1.2.0.latest.version.apk",
+  "latest_version": "1.3.0",
+  "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Downloads/SBI.TV.1.3.0.latest.version.apk",
   "update_message": "SBI TV v1.2.0 is here! Experience the new in-app update system and improved player quality. 🚀",
   "force_update": true,
   "maintenance_mode": false,
   "maintenance_message": "We are performing scheduled maintenance to improve your experience. The app will be back shortly.",
   "expected_back_time": "2025-12-31T18:00:00Z",
   "whats_new": [
-    "🔄 New In-App Update System (Seamless installation)",
-    "🛡️ Improved App Security & Obfuscation",
-    "📺 Enhanced Player Quality (libmpv)",
-    "🎨 Polished UI & Smoother Animations",
-    "🐛 Fixed critical bugs and connection issues"
+   " New: Introducing SBI YouTube Pro ",
+"• New: Background Audio & Auto PiP Mode ",
+"• New: Create & Manage Local Playlists ",
+"• New: Video Quality Selector (144p - 4K) ",
+"• Enhanced UI/UX • Performance improvements ",
+"• Bug fixes"
   ],
 
   "android": {
-    "latest_version": "1.2.0",
-    "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Downloads/SBI.TV.1.2.0.latest.version.apk",
+    "latest_version": "1.3.0",
+    "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Downloads/SBI.TV.1.3.0.latest.version.apk",
     "update_message": "Android v1.2.0: Faster, Safer, and Better! 📱",
     "force_update": true,
     "is_critical": true,
@@ -24,7 +25,13 @@
       "🔄 In-App Update System",
       "🛡️ Improved Security",
       "📺 Better Player Quality",
-      "🐛 Bug Fixes"
+      "🐛 Bug Fixes",
+      " New: Introducing SBI YouTube Pro ",
+"• New: Background Audio & Auto PiP Mode ",
+"• New: Create & Manage Local Playlists ",
+"• New: Video Quality Selector (144p - 4K) ",
+"• Enhanced UI/UX • Performance improvements ",
+"• Bug fixes"
     ]
   },
 
