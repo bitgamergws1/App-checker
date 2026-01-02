@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.3.0",
-  "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Downloads/SBI.TV.1.3.0.latest.version.apk",
-  "update_message": "SBI TV v1.3.0 is here! Experience the new in-app update system and improved player quality. 🚀",
+  "latest_version": "1.4.0",
+  "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Downloads/SBI.TV.1.4.0.latest.version.apk",
+  "update_message": "SBI TV v1.4.0 is here! Experience the new in-app update system and improved player quality. 🚀",
   "force_update": true,
   "maintenance_mode": false,
   "maintenance_message": "We are performing scheduled maintenance to improve your experience. The app will be back shortly.",
@@ -16,9 +16,9 @@
   ],
 
   "android": {
-    "latest_version": "1.3.0",
-    "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Downloads/SBI.TV.1.3.0.latest.version.apk",
-    "update_message": "Android v1.3.0: Faster, Safer, and Better! 📱",
+    "latest_version": "1.4.0",
+    "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Downloads/SBI.TV.1.4.0.latest.version.apk",
+    "update_message": "Android v1.4.0: Faster, Safer, and Better! 📱",
     "force_update": true,
     "is_critical": true,
     "whats_new": [
@@ -36,9 +36,9 @@
   },
 
   "windows": {
-    "latest_version": "1.3.0",
-    "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Download-window-64-bit/SBI_TV_Windows-64_Setup_1.3.0.exe",
-    "update_message": "Windows v1.2.0: Native desktop experience improved! 💻",
+    "latest_version": "1.4.0",
+    "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Download-window-64-bit/SBI_TV_Windows-64_Setup_1.4.0.exe",
+    "update_message": "Windows v1.4.0: Native desktop experience improved! 💻",
     "force_update": true,
     "is_critical": true,
     "whats_new": [
