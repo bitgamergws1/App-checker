@@ -12,11 +12,7 @@ NC='\033[0m'
 
 echo -e "${GREEN}🚀 Starting SBI TV Installer...${NC}\n"
 
-# 1. Validate URL
-if [[ "$DOWNLOAD_URL" == "Yhttps://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-DOWNLOADS_MAC-OS/SBI-TV-macOS.zip" ]]; then
-    echo -e "${RED}❌ Error: Pehle script mein apna download link daalo!${NC}"
-    exit 1
-fi
+# Seedha download pe jao, validation ki zaroorat nahi
 
 # 2. Download with progress
 echo "📥 Downloading App..."
@@ -25,6 +21,8 @@ if ! curl -L --progress-bar -o "$TEMP_DIR/app.zip" "$DOWNLOAD_URL"; then
     rm -rf "$TEMP_DIR"
     exit 1
 fi
+
+# ... baaki script same rahega
 
 # 3. Verify ZIP
 if ! unzip -tq "$TEMP_DIR/app.zip" &> /dev/null; then
@@ -98,3 +96,4 @@ if [[ "$choice" =~ ^[Yy]$ ]]; then
     open "$FINAL_PATH"
 
 fi
+
