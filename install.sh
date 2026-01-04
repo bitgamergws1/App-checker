@@ -1,6 +1,6 @@
 #!/bin/bash
 # --- CONFIGURATION ---
-DOWNLOAD_URL="https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-DOWNLOADS_MAC-OS/SBI-TV-macOS.zipO"
+DOWNLOAD_URL="https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-DOWNLOADS_MAC-OS/SBI-TV-macOS.zip"
 TEMP_DIR=$(mktemp -d)
 INSTALL_DIR="$HOME/Applications"
 
@@ -96,4 +96,5 @@ read -p "Kya app abhi open karni hai? (y/n): " choice
 if [[ "$choice" =~ ^[Yy]$ ]]; then
     echo "🚀 Opening..."
     open "$FINAL_PATH"
+
 fi
