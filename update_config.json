@@ -3,7 +3,7 @@
   "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Downloads/SBI.TV.2.8.1.latest.version.apk",
   "update_message": "SBI TV v1.6.0 is here! Experience the new in-app update system and improved player quality. 🚀",
   "force_update": true,
-  "maintenance_mode": true,
+  "maintenance_mode": false,
   "maintenance_message": "We are performing scheduled maintenance to improve your experience. The app will be back shortly.",
   "expected_back_time": "2026-12-31T18:00:00Z",
   "whats_new": [
