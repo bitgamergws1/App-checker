@@ -1,6 +1,6 @@
 {
-  "latest_version": "3.0.3",
-  "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Downloads/SBI.TV.3.0.3.latest.version.apk",
+  "latest_version": "4.0.0",
+  "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Downloads/SBI.TV.4.0.0.latest.version.apk",
   "update_message": "SBI TV v1.6.0 is here! Experience the new in-app update system and improved player quality. 🚀",
   "force_update": true,
   "maintenance_mode": false,
@@ -13,8 +13,8 @@
   ],
 
   "android": {
-    "latest_version": "3.0.3",
-    "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Downloads/SBI.TV.3.0.3.latest.version.apk",
+    "latest_version": "4.0.0",
+    "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Downloads/SBI.TV.4.0.0.latest.version.apk",
     "update_message": "Android v1.6.0: Faster, Safer, and Better! 📱",
     "force_update": true,
     "is_critical": true,
