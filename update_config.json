@@ -33,9 +33,9 @@
   },
 
   "windows": {
-    "latest_version": "4.3.0",
-    "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Download-window-64-bit/SBI_TV_Windows-64_Setup_v4.3.0.exe",
-    "update_message": "Windows v4.3.0: Native desktop experience improved! 💻",
+    "latest_version": "4.4.0",
+    "download_url": "https://github.com/bitgamergws1/App-checker/releases/download/SBI-TV-Download-window-64-bit/SBI_TV_Windows-64_Setup_v4.4.0.exe",
+    "update_message": "Windows v4.4.0: Native desktop experience improved! 💻",
     "force_update": true,
     "is_critical": true,
     "whats_new": [
